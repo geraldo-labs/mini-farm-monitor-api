@@ -7,5 +7,5 @@ type Version struct {
   
 var CurrentVersion = &Version{
 	Name:  "Farm Monitor API",
-	Version: "v0.0.1",
+	Version: "0.0.1",
 }
